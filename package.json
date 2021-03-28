@@ -1,0 +1,24 @@
+{
+  "name": "parcel-starter",
+  "version": "1.0.0",
+  "description": "Basic file to start a web project.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damdcn/parcel-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damdcn/parcel-starter/issues"
+  },
+  "homepage": "https://github.com/damdcn/parcel-starter#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
